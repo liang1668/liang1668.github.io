@@ -1920,3 +1920,5 @@ code::-webkit-scrollbar-thumb:hover {
           background-color: #1d1e1f!important;
         }
          
+      <a href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=450,top=100,left=350');void(0)"><img src="/img/facebook.png" alt="img"> </a>
+    
