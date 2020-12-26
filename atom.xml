@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://liang1668.github.io</id>
     <title>Gridea</title>
-    <updated>2020-12-26T11:17:54.534Z</updated>
+    <updated>2020-12-26T11:19:11.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://liang1668.github.io"/>
     <link rel="self" href="https://liang1668.github.io/atom.xml"/>
@@ -30,7 +30,8 @@
 <p>2020年临近年尾，再过几天，就是新的一年。儿时最渴望长大，如今却好像最害怕长大。明明到了当初渴望的年纪，却没有活成当初渴望的模样。举目四望，周遭的人似乎都小有所成，而自己依旧倍感茫然。</p>
 <p>但是，请别慌张，人各有路，每个人都有不同的节奏。只要你保持前进的步调，就不必畏惧落后于人。别说来不及。有心之人，何惧为时晚矣？你努力的每一个当下，都会是最好的年华。</p>
 <p>也别对未来心生恐惧。车到山前必有路，船到桥头自然直。只要你一直走，脚下的路就会一直有。时间是最公正的裁判，它会铭记你所有的付出和坚守，然后在某个不期而遇的日子里回馈你曾经的满腔热血。</p>
-<p>从现在起，每天抽出一点时间去学习，去运动，早睡早起，规律作息。若你不曾辜负时光，便能笑对未来不慌不乱。</p>
+<p>从现在起，每天抽出一点时间去学习，去运动，早睡早起，规律作息。若你不曾辜负时光，便能笑对未来不慌不乱。<br>
+<a href="javascript:window.open('http://www.facebook.com/sharer.php?u='+encodeURIComponent(document.location.href),'_blank','toolbar=yes, location=yes, directories=no, status=no, menubar=yes, scrollbars=yes, resizable=no, copyhistory=yes, width=600, height=450,top=100,left=350');void(0)"><img src="/img/facebook.png" alt="img"> </a></p>
 ]]></content>
     </entry>
     <entry>
